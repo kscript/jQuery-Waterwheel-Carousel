@@ -16,3 +16,9 @@ CONTACT INFORMATION:
 
 BRIAN OSBORNE
 brian@bkosborne.com
+
+## change
+
+扩展轮播的视图容器选择器, img -> .carousel-item
+
+selector extension for carousel view container: img -> .carousel-item
